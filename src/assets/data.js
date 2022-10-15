@@ -4,14 +4,14 @@ import java from "../assets/java.png";
 import cpp from "../assets/cpp.png";
 import go from "../assets/go.png";
 import php from "../assets/php.png";
-import linkedinImg from img ="src:https://media-exp1.licdn.com/dms/image/D4D03AQGxnU2lNd3pZQ/profile-displayphoto-shrink_800_800/0/1665534622743?e=1671062400&v=beta&t=Wuc570JDmXaqCalkBlvA6zxzYn0OC35VPhOSnQFvpxg"
+import javascript from "../assets/javascript.png";
 import html from "../assets/html.png";
 
 export const data = [
   {
-    name: "Harun",
-    img: linkedinImg,
-    options: ["Website Development", "Juniour", "Balikesir/TURKEY"],
+    name: "Javascript",
+    img: javascript,
+    options: ["Website Development", "1995", "Brendan Eich"],
   },
   {
     name: "HTML",
