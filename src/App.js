@@ -1,10 +1,17 @@
+import Card from "./components/Card";
+import Header from "./components/Header";
+import Container  from "react-bootstrap/Container";
 
 
 function App() {
   return <>
-  <Header/>
-  <Card/>
   
+
+  <Container className="text-center mt-4">
+    <Header/>
+    <Card/>
+  </Container>
+
     <div>
       
     </div>
@@ -12,4 +19,4 @@ function App() {
   
 }
 
-export default App
+export default App;
