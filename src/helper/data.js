@@ -1,51 +1,51 @@
-import css from "../assets/css.png";
-import python from "../assets/python.png";
-import java from "../assets/java.png";
-import cpp from "../assets/cpp.png";
-import go from "../assets/go.png";
-import php from "../assets/php.png";
-import linkedinImg from img ="src:https://media-exp1.licdn.com/dms/image/D4D03AQGxnU2lNd3pZQ/profile-displayphoto-shrink_800_800/0/1665534622743?e=1671062400&v=beta&t=Wuc570JDmXaqCalkBlvA6zxzYn0OC35VPhOSnQFvpxg"
-import html from "../assets/html.png";
+import linkedinImg8 from "../assets/css.png";
+import linkedinImg7 from "../assets/python.png";
+import linkedinImg6 from "../assets/Meltem.jpg";
+import linkedinImg5 from "../assets/Omer.jpg";
+import linkedinImg4 from "../assets/Ozkan.jpg";
+import linkedinImg3 from "../assets/Cansu.jpg";
+import linkedinImg1 from "../assets/Harun.jpg"
+import linkedinImg2 from "../assets/Tarık.jpg";
 
 export const data = [
   {
-    name: "Harun",
-    img: linkedinImg,
-    options: ["Website Development", "Juniour", "Balikesir/TURKEY"],
+    name: "Harun KESMEGÜLÜ",
+    img: linkedinImg1,
+    options: ["Software Developer", "Juniour", "Balikesir/TURKEY"],
   },
   {
-    name: "HTML",
-    img: html,
-    options: ["Website Development", "1993", "Tim Berners-Lee"],
+    name: "Tarık ÖZTÜRK",
+    img: linkedinImg2,
+    options: ["Software Developer", "Seniour", "Turkey"],
   },
   {
-    name: "CSS",
-    img: css,
-    options: ["Website Design", "1994", "Håkon Wium Lie"],
+    name: "Cansu ÖZTAŞ",
+    img: linkedinImg3,
+    options: ["Software Developer", "Seniour", "Ankara/TURKEY"],
   },
   {
-    name: "Python",
-    img: python,
-    options: ["AI", "1980", "Guido van Rossum"],
+    name: "Özkan DEMİR",
+    img: linkedinImg4,
+    options: ["Software Developer", "Seniour", "Ankara/TURKEY"],
   },
   {
-    name: "Java",
-    img: java,
-    options: ["Backend", "1990s", "Sun Microsystems"],
+    name: "Ömer ÇINAR",
+    img: linkedinImg5,
+    options: ["Software Developer", "Seniour", "Ankara/TURKEY"],
   },
   {
     name: "C++",
-    img: cpp,
-    options: ["Game Dev.", "1980s", "Bjarne Stroustrup"],
+    img: linkedinImg6,
+    options: ["Software Developer", "Seniour", "Ankara/TURKEY"],
   },
   {
     name: "Go",
-    img: go,
-    options: ["Network", "2009", "Robert Griesemer"],
+    img: linkedinImg7,
+    options: ["Software Developer", "Seniour", "Ankara/TURKEY"],
   },
   {
     name: "PHP",
-    img: php,
-    options: ["Backend", "1995", "	Rasmus Lerdorf"],
+    img: linkedinImg8,
+    options: ["Software Developer", "Seniour", "Ankara/TURKEY"],
   },
 ];

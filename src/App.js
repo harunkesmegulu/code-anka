@@ -1,19 +1,15 @@
-import Card from "./components/Card";
-import Header from "./components/Header"
-import Container from "./components/Language"
+
 
 function App() {
-  return (
-    <div className="App">
-      <Container className="text-center">
-        
-      <Header/>
-      <Card/>
-
-      </Container>
-     
+  return <>
+  <Header/>
+  <Card/>
+  
+    <div>
+      
     </div>
-  );
+    </>;
+  
 }
 
-export default App;
+export default App
